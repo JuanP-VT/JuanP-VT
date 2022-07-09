@@ -1,4 +1,4 @@
-👋 My name is Juan Pablo im a industrial engineer with experience in process design and manufacturing. 
+👋 My name is Juan Pablo im a former industrial engineer with experience in process design and manufacturing. 
 
 I decided to change my field of work and and focus in my passion to become a developer.
 
