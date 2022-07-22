@@ -1,7 +1,17 @@
-👋 My name is Juan Pablo im a former industrial engineer with experience in process design and manufacturing. 
+👋 Hi.
 
-I decided to change my field of work and and focus in my passion to become a developer.
+🌱 Currently learning Java
 
-🌱 I’m currently learning Web Design, id like to get a taste of both frontend and backend development.
+🛠 Frontned tools:
+    Typescript
+    ReactJS
+    SCSS
+    HTML
+  
+🛠 Backend tools:
+    NodeJS
+    ExpressJS
+    MongoDB
 
-📫 My email : Cv.JuanP@gmail.com
+📫 email: Cv.JuanP@gmail.com
+🏢 LinkedIn: https://www.linkedin.com/in/juan-pablo-valdez-torres-0a1194242/
