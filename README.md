@@ -1,6 +1,6 @@
 👋 Hi.
 
-🌱 Currently learning React Native
+🌱 Currently looking for job
 
 🛠 Frontned tools:
     Typescript
