@@ -2,7 +2,7 @@
 
 ## Web Developer
 
-**Passionate about coding and application development, I have dedicated over 20 months of my time to honing my skills and creating web applications. Through self-driven learning and hands-on projects, I have gained proficiency in web development technologies, frameworks, and best practices. Now, I am excited to bring my engineering mindset and coding expertise to contribute effectively to a team.**
+
 
 
 ## Skills
