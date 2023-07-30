@@ -1,9 +1,3 @@
-# Juan Pablo
-
-## Web Developer
-
-
-
 
 ## Skills
 Programming Languages:
